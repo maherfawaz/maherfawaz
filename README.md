@@ -1,4 +1,4 @@
-## Hi there 👋
+## My work has been showcased at HCI International 2025 and Serious Play 2025.
 
 <!--
 **maherfawaz/maherfawaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
